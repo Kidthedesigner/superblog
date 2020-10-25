@@ -10,5 +10,6 @@ En este curso se aprenden varias cosas:
 - Cómo conectarte con Github
 - Buenas prácticas 
 - Todos los comandos de Git
+- Créditos al Team de KTD
 
 PD: **ESTE README.MD** NO es taaan serio, mejor ve al curso, lo encuentras en https://platzi.com/git-github

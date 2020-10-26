@@ -11,5 +11,6 @@ En este curso se aprenden varias cosas:
 - Buenas prácticas 
 - Todos los comandos de Git
 - Créditos al Team de KTD
-
+- Incluye ejemplos en Windows, Linux y Mac ;)
+- Disponible para todas las edades
 PD: **ESTE README.MD** NO es taaan serio, mejor ve al curso, lo encuentras en https://platzi.com/git-github
